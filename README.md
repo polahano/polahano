@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a computer engineering student from Egypt.
+I am **Pola Hano** a computer engineering student from Egypt.
 - 🔭 Working on multiple projects using Android & Java.
 - 🌱 Learning Web development frontend.
 <br>
