@@ -1,7 +1,6 @@
 ### Hello World 👋
-I am **Pola Hano** a computer engineering student from Egypt.
-- 🔭 Working on multiple projects using Java and Android (Java & Kotlin).
-- 🌱 Designed some Desktop applications front-end.
+I am **Pola Hano** a Computer Engineering Graduate from Egypt.
+
 <br>
 
 ## Connect with me
